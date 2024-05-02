@@ -1,25 +1,26 @@
 {
   "domain": "festcakes.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "",
+  "primary_color": "#28a745",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "icons_font": "_",
-  "font_family": "_",
   "bg_color": "#ffffff",
-  "logo": "/img/uploads/logo.png",
-  "name": "festcakes",
-  "short_name": "festcakes",
+  "repository": "ecomplus-stores/festcakes",
+  "logo": "/img/uploads/logo-festpan-45-anos.-300x158.png",
+  "name": "Festcakes Alimentos",
+  "short_name": "Festcakes Alimentos",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "font_family": "_",
+  "favicon": "/img/uploads/688db3f550.png",
+  "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "",
-  "icon": "/img/icon.png",
+  "secondary_color": "#e00c19",
+  "icon": "/img/uploads/logo-festpan-45-anos.-300x158.png",
   "store_id": 51491,
-  "description": "festcakes",
-  "large_icon": "/img/large-icon.png"
+  "description": "A festcakes surge com uma proposta de entregar uma loja completa em utensílios, acessórios e alimentos para confeitaria. levamos à risca valores que foram desenvolvidos carinhosamente pensando em você. Nosso objetivo é ser a mais próxima, inclusiva, prestativa, sábia e simples. Nossos pilares de trabalho são qualidade, responsabilidade, parceria e confiança. Fruto de uma empresa que tem uma estabilidade no mercado a mais de 40 anos a Festcakes nasce da Festpan Alimentos pra atender você.",
+  "large_icon": "/img/uploads/logo-festpan-45-anos.-300x158.png"
 }
