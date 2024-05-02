@@ -8,7 +8,7 @@
   },
   "bg_color": "#ffffff",
   "repository": "ecomplus-stores/festcakes",
-  "logo": "/img/uploads/festcakes.png",
+  "logo": "/img/uploads/festcakes.webp",
   "name": "Festcakes Alimentos",
   "short_name": "Festcakes Alimentos",
   "lang": "pt_br",
@@ -22,5 +22,5 @@
   "icon": "/img/uploads/festcakes.webp",
   "store_id": 51491,
   "description": "A festcakes surge com uma proposta de entregar uma loja completa em utensílios, acessórios e alimentos para confeitaria. levamos à risca valores que foram desenvolvidos carinhosamente pensando em você. Nosso objetivo é ser a mais próxima, inclusiva, prestativa, sábia e simples. Nossos pilares de trabalho são qualidade, responsabilidade, parceria e confiança. Fruto de uma empresa que tem uma estabilidade no mercado a mais de 40 anos a Festcakes nasce da Festpan Alimentos pra atender você.",
-  "large_icon": "/img/uploads/festcakes.png"
+  "large_icon": "/img/uploads/festcakes.webp"
 }
