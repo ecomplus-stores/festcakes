@@ -9,7 +9,7 @@ on:
       - 'template/**'
       - 'package-lock.json'
       - '.ecomplus.cd.json'
-      - '.netlify/**'
+      - '.functions/**'
       - '.github/build-and-deploy'
       - '.github/workflows/build-and-deploy.yml'
 
