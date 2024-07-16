@@ -10,8 +10,10 @@ exports.ssr = functions.https.onRequest((req, res) => {
     req.path.length > 1
     && !req.path.startsWith('/app/')
     && !req.path.startsWith('/admin/')
+    && !req.path.startsWith('/search')
     && !req.path.startsWith('/blog')
-    && !req.path.startsWith('/pages')
+    && !req.path.startsWith('/posts/')
+    && !req.path.startsWith('/pages/')
     && !req.path.startsWith('/404')
   ) {
     const paths = req.path.split('/').slice(1)
