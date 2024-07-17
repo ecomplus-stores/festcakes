@@ -1,7 +1,7 @@
 import * as merge from 'lodash.merge'
 import EcomSearch from '@ecomplus/search-engine'
 
-const storeSpec = 'Fastcakes'
+const storeSpec = 'Festcakes'
 
 EcomSearch.dslMiddlewares.push((dsl) => {
   const storeFilter = {
