@@ -56,6 +56,18 @@
     </url>
   
     <url>
+      <loc>https://festcakes.netlify.app/pkf/manga-confeitar-descartavel-gg-10-uni-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/base-para-flores-inox-grande-1-uni-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://festcakes.netlify.app/p/confeitaria</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -327,6 +339,36 @@
   
     <url>
       <loc>https://festcakes.netlify.app/k/sb1-decorativa</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/utensilios</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/sb-acessorios-de-cozinha</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/sb1-armador</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/k/sb-acessorios-de-cozinha</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb-acessorios-de-cozinha</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
