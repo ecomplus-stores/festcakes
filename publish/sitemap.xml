@@ -2,66 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://festcakes.netlify.app/pkf/chocolate-forneavel-batons-boulanger-barry-1-6kg</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/p/chocolates</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/p/sb-importado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/p/sb1-fracionado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/k/chocolates</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/k/sb-importado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/k/sb1-fracionado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/f/chocolates</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/f/sb-importado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/f/sb1-fracionado</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.8</priority>
-    </url>
-  
-    <url>
       <loc>https://festcakes.netlify.app/vapt</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1244,13 +1184,13 @@
     </url>
   
     <url>
-      <loc>https://festcakes.netlify.app/pages/entrega</loc>
+      <loc>https://festcakes.netlify.app/pages/faq</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
   
     <url>
-      <loc>https://festcakes.netlify.app/pages/faq</loc>
+      <loc>https://festcakes.netlify.app/pages/entrega</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
     </url>
