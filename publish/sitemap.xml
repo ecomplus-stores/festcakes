@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>https://festcakes.netlify.app/pf/mistura-bolo-de-milho-tradicional-5kg-vapt---festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/manga-confeitar-descartavel-m-5-uni-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-spray-verde-pistache-42g-iceberg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/corante-spray-azul-congelante-42g-iceberg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/gelatina-sem-sabor-510g-lbs</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/maionese-3kg-salada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://festcakes.netlify.app/p/confeitaria</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -86,15 +122,135 @@
     </url>
   
     <url>
-      <loc>https://festcakes.netlify.app/pf/mistura-bolo-de-milho-tradicional-5kg-vapt---festpan</loc>
+      <loc>https://festcakes.netlify.app/p/sb-corantes</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
+      <priority>0.8</priority>
     </url>
   
     <url>
-      <loc>https://festcakes.netlify.app/pkf/manga-confeitar-descartavel-m-5-uni-mago</loc>
+      <loc>https://festcakes.netlify.app/p/sb1-spray</loc>
       <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/k/confeitaria</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/k/sb-corantes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/k/sb1-spray</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb-corantes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb1-liquido</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/mercearia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/sb-doces-e-sobremesas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/sb1-gelatina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/k/mercearia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/k/sb-doces-e-sobremesas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/k/sb1-gelatina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/mercearia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb-doces-e-sobremesas</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb1-gelatina</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/sb-molhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/sb1-maionese</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb-molhos</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb1-maionese</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/embalagens-e-descartaveis</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/sb-papel-descartavel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
     </url>
   
     <url>
@@ -1352,13 +1508,13 @@
     </url>
   
     <url>
-      <loc>https://festcakes.netlify.app/app/index</loc>
+      <loc>https://festcakes.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://festcakes.netlify.app/admin/index</loc>
+      <loc>https://festcakes.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
