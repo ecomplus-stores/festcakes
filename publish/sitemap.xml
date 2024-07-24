@@ -368,6 +368,36 @@
     </url>
   
     <url>
+      <loc>https://festcakes.netlify.app/p/sb-formas-embalagem</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/sb1-papel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/k/sb-formas-embalagem</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb-formas-embalagem</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb1-papel</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://festcakes.netlify.app/pf/mistura-bolo-de-milho-tradicional-5kg-vapt---festpan</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -465,6 +495,12 @@
   
     <url>
       <loc>https://festcakes.netlify.app/pkf/acessorios-de-confeiteiro-c-08pecas-ac0230---ferimte</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forma-bolo-ingles-marrom-plumpy-4-5x6-5x16-3cm-300g-50-uni-ecopack</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
     </url>
