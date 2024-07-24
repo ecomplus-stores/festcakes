@@ -2,102 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>https://festcakes.netlify.app/pf/mistura-bolo-de-milho-tradicional-5kg-vapt---festpan</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pkf/manga-confeitar-descartavel-m-5-uni-mago</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pkf/corante-spray-verde-pistache-42g-iceberg</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pf/corante-spray-azul-congelante-42g-iceberg</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pkf/gelatina-sem-sabor-510g-lbs</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pf/maionese-3kg-salada</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pkf/papel-chumbo-ouro-fosco-10x9-7cm-300-uni-carber</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pkf/papel-chumbo-verde-bandeira-12x11-7cm-300-uni-carber</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pk/caixa-cone-cenoura-divertida-pequena-com-10-uni-ideia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pkf/manga-confeitar-descartavel-gg-10-uni-mago</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pkf/base-para-flores-inox-grande-1-uni-mago</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pf/macarrao-yakissoba-500g-kirin</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pkf/bico-confeitar-inox-c15-perle-grande-mago</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pkf/cocada-branca-cremosa-4-6kg-pastoriza</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pk/kit-caixa-encanto-g-3x1-100-150-250g-doce-pascoa-aquarela-com-6-uni-ideia</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
-      <loc>https://festcakes.netlify.app/pkf/corante-liquid-gel-vermelho-natal-60g-iceberg</loc>
-      <changefreq>weekly</changefreq>
-      <priority>0.9</priority>
-    </url>
-  
-    <url>
       <loc>https://festcakes.netlify.app/p/confeitaria</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -461,6 +365,108 @@
       <loc>https://festcakes.netlify.app/k/sb1-liquigel</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/mistura-bolo-de-milho-tradicional-5kg-vapt---festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/manga-confeitar-descartavel-m-5-uni-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-spray-verde-pistache-42g-iceberg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/corante-spray-azul-congelante-42g-iceberg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/gelatina-sem-sabor-510g-lbs</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/maionese-3kg-salada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/papel-chumbo-ouro-fosco-10x9-7cm-300-uni-carber</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/papel-chumbo-verde-bandeira-12x11-7cm-300-uni-carber</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pk/caixa-cone-cenoura-divertida-pequena-com-10-uni-ideia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/manga-confeitar-descartavel-gg-10-uni-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/base-para-flores-inox-grande-1-uni-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/macarrao-yakissoba-500g-kirin</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/bico-confeitar-inox-c15-perle-grande-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/cocada-branca-cremosa-4-6kg-pastoriza</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pk/kit-caixa-encanto-g-3x1-100-150-250g-doce-pascoa-aquarela-com-6-uni-ideia</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-liquid-gel-vermelho-natal-60g-iceberg</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/acessorios-de-confeiteiro-c-08pecas-ac0230---ferimte</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
     </url>
   
     <url>
