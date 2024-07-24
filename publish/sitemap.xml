@@ -8,6 +8,18 @@
     </url>
   
     <url>
+      <loc>https://festcakes.netlify.app/pkf/pasta-saborizante-cafe-150gr-dabella</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/saquinho-para-pipoca-chico-bento-arraia-com-50-unidades-festcolor</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://festcakes.netlify.app/p/chocolates</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -1316,13 +1328,13 @@
     </url>
   
     <url>
-      <loc>https://festcakes.netlify.app/admin/index</loc>
+      <loc>https://festcakes.netlify.app/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://festcakes.netlify.app/app/index</loc>
+      <loc>https://festcakes.netlify.app/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
