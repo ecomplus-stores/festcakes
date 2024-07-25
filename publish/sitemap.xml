@@ -3122,6 +3122,48 @@
     </url>
   
     <url>
+      <loc>https://festcakes.netlify.app/p/sb1-brilhante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/k/sb1-brilhante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb1-brilhante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb1-colher-silicone</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb1-ganache</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/sb1-goiabada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/f/sb1-goiabada</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://festcakes.netlify.app/pkf/papel-chumbo-ouro-fosco-10x9-7cm-300-uni-carber</loc>
       <changefreq>weekly</changefreq>
       <priority>0.9</priority>
@@ -15884,6 +15926,600 @@
     </url>
   
     <url>
+      <loc>https://festcakes.netlify.app/pkf/pasta-saborizante-frutas-do-bosque-90g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/emulsao-saborizante-de-avela-18ml-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-liquido-amarelo-20ml-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-liquido-violeta-20ml-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/kit-carimbos-amor-de-mae-amarelo-2cm-7pecas-bluestar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/emulsao-saborizante-de-baunilha-18ml-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-soft-gel-vermelho-brilhante-15g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/dioxido-de-titanio-15g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-greasepel-mini-cupcake-laranja-n02-lisa-45-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-papel-azul-turquesa-dentro-e-fora-n05-lisa-com-100-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-papel-branco-dentro-e-fora-n04-lisa-com-100-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/emulsao-saborizante-de-coco-18ml-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/espatula-de-silicone-raspadora-sprinkles-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/espatula-faca-para-bolo-plastico-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/caneta-gel-preto-60g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/caneta-decoracao-ponta-fina-cores-com-5-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-em-po-lipossoluvel-violeta-5g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-soft-gel-fucscia-15g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-soft-gel-fucsia-60g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-em-po-lipossoluvel-vermelho-5g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-soft-gel-lavanda-15g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/po-para-decoracao-azul-ceu-5g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/po-para-decoracao-cristal-5g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/pasta-saborizante-nozes-90g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/kit-carimbos-signos-amarelo-2cm-13pecas-bluestar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-soft-gel-azul-bebe-15g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/nivelador-e-cortador-de-bolo-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/emulsao-saborizante-de-laranja-18ml-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-greasepel-mini-cupcake-pink-n02-lisa-45-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-greasepel-mini-cupcake-verde-bandeira-n02-lisa-45-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/pasta-saborizante-pistache-90g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/carimbo-marcador-numeros-com-10-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/colher-de-silicone-pequena-sprinkles-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/emulsao-saborizante-de-limao-18ml-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/acido-citrico-50g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/espatula-glacera-para-bolo-plastico-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/espatula-pao-duro-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/caneta-decoracao-ponta-fina-cores-com-8-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/pasta-saborizante-maracuja-90g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-em-po-lipossoluvel-laranja-5g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-em-po-lipossoluvel-rosa-5g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/espatula-ponta-fina-inox-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/espatula-reta-ponta-redonda-25cm-inox-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/po-para-decoracao-brilho-turmalina-5g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/suporte-para-bolo-113cm-com-8-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-papel-amarelo-n06-lisa-com-100-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-papel-azul-turquesa-dentro-e-fora-n04-lisa-com-100-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-papel-laranja-dentro-e-fora-n04-lisa-com-100-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-para-cupcake-branca-n0-industrial-com-100-unidades</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-greasepel-mini-cupcake-natural-n02-lisa-45-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-greasepel-mini-cupcake-azul-bebe--n02-lisa-45-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/papel-celofane-incolor-12x125cm-c-100-uni-carber</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-papel-rosa-dentro-e-fora-n04-lisa-com-100-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/kit-carimbos-signos-rosa-bebe-2cm-13pecas-bluestar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-papel-azul-bebe-dentro-e-fora-n04-lisa-com-100-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-greasepel-mini-cupcake-vermelho-n02-lisa-45-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/pasta-saborizante-avela-90g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/pasta-saborizante-baunilha-90g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-soft-gel-lavanda-60g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-papel-azul-bebe-n06-lisa-com-100-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-papel-azul-royal-dentro-e-fora-n04-lisa-com-100-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-liquido-azul-20ml-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-liquido-marrom-20ml-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-soft-gel-vermelho-brilhante-60g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/chocolate-granulado-101kg-harald</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/agar-agar-30g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-em-po-lipossoluvel-amarelo-5g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-liquido-preto-20ml-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/corante-liquido-laranja-20ml-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/pasta-saborizante-limao-siciliano-90g-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/mistura-cookies-cenoura101kg-dellanonna--festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/mistura-cookies-neutro-101kg-dellanonna--festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/mistura-cookies-chocolate-101kg-dellanonna--festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/mistura-cookies-red-velvet101kg-dellanonna--festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/cobertura-ganache-avela-4kg-dleite--festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/cobertura-ganache-chocolate-branco-crocante-4kg-dleite--festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/mistura-bolo-de-banana-5kg-vapt--festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/margarina-80--com-sal-15kg-cukin</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/cortador-de-brownie-coracoes-6x6cm-bluestar</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/mistura-broa-de-milho-10kg-festferm---festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/mistura-broa-portuguesa-10kg-festferm---festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/recheio-forneavel-leite-condensado-45kg-festcreme--festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/p/recheio-forneavel-morango-45kg-festcreme--festpan</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/goiabada-bloco-7kg-predilecta</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/doce-goiabada-bloco-7kg-reymax</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/massa-pronta-brigadeiro-2kg-alispec</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/massa-pronta-cajuzinho-2kg-pastoriza</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/massa-pronta-brigadeiro-257kg-nestle</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/massa-pronta-beijinho-24kg-nestle</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/damasco-turco-doce-1kg-unifrut</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/forminha-para-cupcake-amarelo-girassol-com-45-unidades-mago</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/chocolate-confeiteiro-cobertura-fracionado-meio-amargo-em-barra-5kg-harald</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/chocolate-confeiteiro-cobertura-fracionada-ao-leite-em-barra-5kg-haradl</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/chocolate-confeiteiro-fracionado-branco-em-barra-5kg-harald</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/chocolate-meio-amargo-cobertura-raspar-e-cobrir-em-barra5kg--harald</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/chocolate-ao-leite-cobertura-raspar-e-cobrir-em-barra-5kg-harald</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/chocolate-branco-cobertura-raspar-e-cobrir-em-barra-5kg-harald</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pkf/chocolate-ao-leite-em-barramelken-210kg-harald</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/pf/extrato-tomate-408kg-elefante</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.9</priority>
+    </url>
+  
+    <url>
       <loc>https://festcakes.netlify.app/vapt</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
@@ -17259,6 +17895,12 @@
   
     <url>
       <loc>https://festcakes.netlify.app/mais-doce-</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://festcakes.netlify.app/della-nonna</loc>
       <changefreq>weekly</changefreq>
       <priority>0.8</priority>
     </url>
