@@ -38,6 +38,15 @@
       "page": 1,
       "title": "Lançamentos",
       "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "sort": "views",
+      "title": "Destaques",
+      "link": "Destaques"
     }
   ]
 }
