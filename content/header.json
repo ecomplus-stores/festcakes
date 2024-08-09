@@ -1,27 +1,24 @@
 {
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 8,
     "full_width": true
   },
   "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": {
     "text": "Pague com pix e ganhe 5% de desconto",
-    "link": ""
+    "link": "",
+    "background": "#090909",
+    "color": "#ffffff"
   },
-  "alphabetical_order_submenu": false,
+  "alphabetical_order_submenu": true,
   "name_all_departments": "",
   "search_input": true,
   "desktop_megamenu": true,
-  "full_width_submenu": false,
+  "full_width_submenu": true,
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Sobre nós",
-        "link": "/pages/sobre-nos"
-      }
-    ],
+    "pages": [],
     "phone_wpp": true,
     "socials": true
   }
