@@ -6,21 +6,7 @@
       "type": "banner-slider",
       "autoplay": 4000,
       "full_width": true,
-      "slides": [
-        {
-          "img": "https://cdn.awsli.com.br/1920x1920/2356/2356607/banner/60-k65kdjm0cn.jpg",
-          "link": "",
-          "alt": "",
-          "start": "",
-          "end": "",
-          "mobile_img": ""
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/bannerfestpan_22.jpg"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
@@ -31,7 +17,7 @@
       "shuffle": true,
       "collection_id": null,
       "sort": "offers",
-      "title": "",
+      "title": "Promoções",
       "headless": false,
       "limit": 12,
       "page": 1
