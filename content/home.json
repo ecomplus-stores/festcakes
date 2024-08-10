@@ -29,7 +29,7 @@
       "page": 1,
       "sort": "sales",
       "title": "Mais Vendidos",
-      "autoplay": 2000
+      "autoplay": ""
     },
     {
       "type": "collection-shelf",
