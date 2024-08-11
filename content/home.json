@@ -6,7 +6,15 @@
       "type": "banner-slider",
       "autoplay": 4000,
       "full_width": true,
-      "slides": []
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/fretefestcakes.jpg",
+          "link": "https://www.festcakes.com.br/",
+          "alt": "42"
+        }
+      ]
     },
     {
       "type": "info-bar",
