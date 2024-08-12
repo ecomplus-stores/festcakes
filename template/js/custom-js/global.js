@@ -1,5 +1,7 @@
-import { price as getPrice } from '@ecomplus/utils'
+import * as merge from 'lodash.merge'
 import EcomSearch from '@ecomplus/search-engine'
+
+const storeSpec = 'Festcakes'
 
 const fixCategoryIdsFilter = ({ terms }) => {
   if (
@@ -29,78 +31,28 @@ EcomSearch.dslMiddlewares.push((dsl) => {
       })
     }
   }
-})
-
-const getPriceWithDiscount = (price, discount) => {
-  const { type, value } = discount
-  let priceWithDiscount
-  if (value) {
-    if (type === 'percentage') {
-      priceWithDiscount = price * (100 - value) / 100
-    } else {
-      priceWithDiscount = price - value
-    }
-    return priceWithDiscount > 0 ? priceWithDiscount : 0
-  }
-}
-
-/*
-window.$domainDiscounts = {
-  /* eslint-disable *
-  "domain": "www.loja.festpan.com.br",
-  "discount_rules": [
-    {
-      "discount": {
-        "apply_at": "total",
-        "type": "percentage",
-        "value": 10
-      },
-      "cumulative_discount": true,
-      "domain": "www.loja.festpan.com.br"
-    }
-  ],
-  "product_kit_discounts": [],
-  "freebies_rules": []
-  /* eslint-enable *
-}
-*/
-
-window.$setProductDomainPrice = (product) => {
-  if (!window.$domainDiscounts) return null
-  const { discount_rules: discountRules } = window.$domainDiscounts
-  if (!discountRules || !discountRules.length) {
-    return null
-  }
-  const productId = product.product_id || product._id
-  let discount = null
-  discountRules.forEach(rule => {
-    if (rule.product_ids && rule.product_ids.length) {
-      if (!rule.product_ids.includes(productId)) return
-    }
-    if (rule.excluded_product_ids && rule.excluded_product_ids.length) {
-      if (rule.excluded_product_ids.includes(productId)) return
-    }
-    if (rule.category_ids && rule.category_ids.length) {
-      if (
-        !product.categories ||
-        !product.categories.find(({ _id }) => rule.category_ids.includes(_id))
-      ) {
-        return
+  const storeFilter = {
+    nested: {
+      path: 'specs',
+      query: {
+        bool: {
+          filter: [{
+            term: { 'specs.grid': 'store' }
+          }, {
+            terms: { 'specs.text': [storeSpec] }
+          }]
+        }
       }
     }
-    if (rule.discount.min_amount > getPrice(product)) {
-      return
-    }
-    if (!discount || discount.value < rule.discount.value) {
-      discount = rule.discount
+  }
+  const { filter } = (dsl.query && dsl.query.bool) || {}
+  if (filter) {
+    filter.push(storeFilter)
+    return
+  }
+  merge(dsl, {
+    query: {
+      bool: { filter: [storeFilter] }
     }
   })
-  if (discount) {
-    ;['price', 'base_price', 'final_price'].forEach((field) => {
-      if (product[field]) {
-        product[field] = getPriceWithDiscount(product[field], discount)
-      }
-    })
-  }
-  return discount
-}
+})
