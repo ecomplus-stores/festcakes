@@ -103,3 +103,4 @@ window.$setProductDomainPrice = (product) => {
     })
   }
   return discount
+}
