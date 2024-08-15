@@ -232,7 +232,7 @@ export default {
         items: this.ecomCart.data.items,
         ...data
       }
-      body.domain += '.skip-open'
+      if (body.domain) body.domain += '.skip-open'
       modules({
         url: '/apply_discount.json',
         method: 'POST',
