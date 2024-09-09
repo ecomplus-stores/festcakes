@@ -20,6 +20,13 @@
           "img": "/img/uploads/nestlemesdocliente.jpg",
           "link": "https://www.festcakes.com.br/search?term=nestl%C3%A9",
           "alt": "96"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/1semanadosorvete.jpg",
+          "link": "https://www.festcakes.com.br/search?term=sorvete",
+          "alt": "101"
         }
       ]
     },
