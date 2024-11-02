@@ -10,6 +10,13 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/finaldesemanac.jpg",
+          "link": "https://www.festcakes.com.br/k/confeitaria?utm_source=site&utm_medium=banner&utm_campaign=frete-gratis",
+          "alt": "158"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/102406.jpg",
           "link": "https://www.festcakes.com.br/pkf/sacola-eco-pfm-happy-halloween-com-10-unid-ideia",
           "alt": "141"
@@ -55,13 +62,6 @@
           "img": "/img/uploads/bannernestleoutubro.jpg",
           "link": "https://www.festcakes.com.br/search?term=nestlé",
           "alt": "155"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/finaldesemanac.jpg",
-          "link": "https://www.festcakes.com.br/k/confeitaria?utm_source=site&utm_medium=banner&utm_campaign=frete-gratis",
-          "alt": "158"
         }
       ]
     },
