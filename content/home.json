@@ -6,15 +6,7 @@
       "type": "banner-slider",
       "autoplay": 4000,
       "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/bannernestleoutubro.jpg",
-          "link": "https://www.festcakes.com.br/search?term=nestlé",
-          "alt": "155"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
