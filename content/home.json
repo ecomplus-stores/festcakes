@@ -6,15 +6,7 @@
       "type": "banner-slider",
       "autoplay": 4000,
       "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/ofertas3.jpg",
-          "link": "https://www.festcakes.com.br/?utm_source=site&utm_medium=banner&utm_campaign=ofertas3",
-          "alt": "166"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
