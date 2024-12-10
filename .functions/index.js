@@ -64,6 +64,7 @@ axios.$ssrFetchAndCache = async (
 }
 
 globalThis.ecomClientAxiosMidd = async (config) => {
+  console.log(`${config.method} ${config.url}`)
   if (config.method === 'post') {
     if (config.url !== '/items.json') {
       return null
