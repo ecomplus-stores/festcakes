@@ -27,7 +27,6 @@ axios.$ssrFetchAndCache = async (
           : config.data
         if (typeof body === 'string' && body.length < 1399) {
           key = body
-          console.log({ key })
         }
       }
     } else {
@@ -64,7 +63,6 @@ axios.$ssrFetchAndCache = async (
 }
 
 globalThis.ecomClientAxiosMidd = async (config) => {
-  console.log(`${config.method} ${config.url}`)
   if (config.method === 'post') {
     if (config.url !== '/items.json') {
       return null
