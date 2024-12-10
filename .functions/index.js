@@ -65,7 +65,7 @@ axios.$ssrFetchAndCache = async (
 
 globalThis.ecomClientAxiosMidd = async (config) => {
   if (config.method === 'post') {
-    if (!config.url.endsWith('v1/items.json')) {
+    if (config.url !== '/items.json') {
       return null
     }
   } else if (config.method && config.method !== 'get') {
@@ -74,7 +74,7 @@ globalThis.ecomClientAxiosMidd = async (config) => {
   if (config.headers?.['X-Access-Token']) return null
   if (
     !config.baseURL?.includes('ecvol.com') &&
-    !config.url.endsWith('v1/items.json')
+    config.url !== '/items.json'
   ) {
     return null
   }
