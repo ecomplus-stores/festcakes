@@ -8,6 +8,13 @@
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/silver-plastic.jpg",
+          "link": "https://www.festcakes.com.br/k/ano-novo-silver-plastic?utm_source=benner&utm_medium=silver_plastic&utm_campaign=silver_plastic",
+          "alt": "268"
+        },
+        {
           "start": "2024-12-03T12:27:59.251Z",
           "end": "2025-01-01T02:59:00Z",
           "img": "/img/uploads/br_pt_nptrade_ecommbannersdec_festcakes_m-1.jpg",
@@ -48,13 +55,6 @@
           "end": "",
           "img": "/img/uploads/103879.jpg",
           "link": "https://www.festcakes.com.br/pkf/caixa-brownie-com-celofane-natal-kraft-com-10-unidades-ideia-?utm_source=banner&utm_medium=07-103879&utm_campaign=ideia"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/silver-plastic.jpg",
-          "link": "https://www.festcakes.com.br/k/ano-novo-silver-plastic?utm_source=benner&utm_medium=silver_plastic&utm_campaign=silver_plastic",
-          "alt": "268"
         }
       ]
     },
