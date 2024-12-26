@@ -19,6 +19,13 @@
           "end": "2025-01-01T02:59:00Z",
           "img": "/img/uploads/br_pt_nptrade_ecommbannersdec_festcakes_m-1.jpg",
           "link": "https://www.festcakes.com.br/search?term=Nestl%C3%A9&utm_source=banner&utm_medium=nestle&utm_campaign=nestle"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/02-banner.jpg",
+          "link": "https://www.festcakes.com.br/k/confeitaria?utm_source=banner&utm_medium=01-confeitaria&utm_campaign=confeitaria",
+          "alt": "282"
         }
       ]
     },
