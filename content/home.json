@@ -40,6 +40,11 @@
           "img": "/img/uploads/01-banner.jpg",
           "link": "https://www.festcakes.com.br/k/mercearia?utm_source=banner&utm_medium=03-mercearia&utm_campaign=mercearia",
           "alt": "284"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/festcakes-banner-comunicado-recesso.jpg"
         }
       ]
     },
