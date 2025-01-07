@@ -15,10 +15,18 @@
           "alt": "292"
         },
         {
-          "start": "2024-12-03T12:27:59.251Z",
-          "end": "2025-01-01T02:59:00Z",
-          "img": "/img/uploads/br_pt_nptrade_ecommbannersdec_festcakes_m-1.jpg",
-          "link": "https://www.festcakes.com.br/search?term=Nestl%C3%A9&utm_source=banner&utm_medium=nestle&utm_campaign=nestle"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/validade-bella.jpg",
+          "link": "https://www.festcakes.com.br/search?term=daBella&utm_source=site&utm_medium=banner&utm_campaign=validade-dabella",
+          "alt": "293"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/validade-mago.jpg",
+          "link": "https://www.festcakes.com.br/search?term=Emuls%C3%A3o+Saborizante+Mago&utm_source=site&utm_medium=banner&utm_campaign=validade-mago",
+          "alt": "294"
         },
         {
           "start": "",
@@ -40,20 +48,6 @@
           "img": "/img/uploads/01-banner.jpg",
           "link": "https://www.festcakes.com.br/k/mercearia?utm_source=banner&utm_medium=03-mercearia&utm_campaign=mercearia",
           "alt": "284"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/validade-bella.jpg",
-          "link": "https://www.festcakes.com.br/search?term=daBella&utm_source=site&utm_medium=banner&utm_campaign=validade-dabella",
-          "alt": "293"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/validade-mago.jpg",
-          "link": "https://www.festcakes.com.br/search?term=Emuls%C3%A3o+Saborizante+Mago&utm_source=site&utm_medium=banner&utm_campaign=validade-mago",
-          "alt": "294"
         }
       ]
     },
