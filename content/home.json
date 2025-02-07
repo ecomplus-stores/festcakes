@@ -17,26 +17,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/01-pascoa.jpg",
-          "link": "https://www.festcakes.com.br/search?term=P%C3%A1scoa&utm_source=site&utm_medium=banner&utm_campaign=01-pascoa",
-          "alt": "300"
-        },
-        {
-          "start": "2025-01-20T19:06:06.937Z",
-          "end": "2025-02-01T02:50:24.887Z",
-          "img": "/img/uploads/banner-kit-espatulas.jpg",
-          "link": "https://www.festcakes.com.br/search?term=bluestar&utm_source=site&utm_medium=banner&utm_campaign=kit-espatulas"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/04-pascoa.jpg",
-          "link": "https://www.festcakes.com.br/search?term=forma+acetato&utm_source=site&utm_medium=banner&utm_campaign=04-pascoa-forma-acetato",
-          "alt": "305"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/valentine10off.jpg",
           "link": "https://www.festcakes.com.br/search?term=Amor++Ideia&utm_source=site&utm_medium=banner&utm_campaign=valentine10off",
           "alt": "315"
@@ -44,9 +24,23 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/01-pascoa.jpg",
+          "link": "https://www.festcakes.com.br/search?term=P%C3%A1scoa&utm_source=site&utm_medium=banner&utm_campaign=01-pascoa",
+          "alt": "300"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/valentinebrinde.jpg",
           "link": "https://www.festcakes.com.br/search?term=bwb&utm_source=site&utm_medium=banner&utm_campaign=valentinebrinde",
           "alt": "316"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/04-pascoa.jpg",
+          "link": "https://www.festcakes.com.br/search?term=forma+acetato&utm_source=site&utm_medium=banner&utm_campaign=04-pascoa-forma-acetato",
+          "alt": "305"
         },
         {
           "start": "",
