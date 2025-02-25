@@ -34,6 +34,13 @@
           "img": "/img/uploads/carnaval1.jpg",
           "link": "https://www.festcakes.com.br/search?term=Dabella&utm_source=site&utm_medium=banner&utm_campaign=carnaval1",
           "alt": "325"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/carnaval2.jpg",
+          "link": "https://www.festcakes.com.br/search?term=Dabella&utm_source=site&utm_medium=banner&utm_campaign=carnaval2",
+          "alt": "326"
         }
       ]
     },
