@@ -26,6 +26,13 @@
           "img": "/img/uploads/consumidor1.jpg",
           "link": "https://www.festcakes.com.br/k/semana-do-cliente?utm_source=site&utm_medium=banner&utm_campaign=consumidor1",
           "alt": "336"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/consumidor2.jpg",
+          "link": "https://www.festcakes.com.br/k/semana-do-cliente?utm_source=site&utm_medium=banner&utm_campaign=consumidor2",
+          "alt": "337"
         }
       ]
     },
