@@ -10,6 +10,11 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/festcakes_bnr_aviso_pausapascoa.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/festcakes_bnr_pascoa_sem1_02.jpg",
           "link": "https://www.festcakes.com.br/k/cortadores-de-plastico"
         },
@@ -18,11 +23,6 @@
           "end": "",
           "img": "/img/uploads/festcakes_bnr_pascoa_sem1_03.jpg",
           "link": "https://www.festcakes.com.br/k/cortadores-de-plastico"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/festcakes_bnr_aviso_pausapascoa.jpg"
         }
       ]
     },
