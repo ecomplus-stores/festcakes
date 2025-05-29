@@ -4,7 +4,13 @@
 
 [[redirects]]
   from = "/*"
-  to = "/.netlify/functions/ssr?slug=:splat"
+  to = "https://www.festcakes.com.br/:splat"
+  status = 301
+  force = true
+
+ [[redirects]]
+  from = "/admin/*"
+  to = "/admin/:splat"
   status = 200
 
 [[headers]]
