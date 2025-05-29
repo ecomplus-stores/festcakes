@@ -7,8 +7,9 @@
   to = "https://www.festcakes.com.br/:splat"
   status = 301
   force = true
+  conditions = {Path = ["!/admin/*"]}
 
- [[redirects]]
+[[redirects]]
   from = "/admin/*"
   to = "/admin/:splat"
   status = 200
