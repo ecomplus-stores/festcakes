@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "Ofertas",
+  "meta_title": "glitter comestível",
+  "meta_description": "",
   "sections": [
     {
       "type": "banner-slider",
@@ -72,6 +72,12 @@
           "end": "2025-06-02T02:59:00.000Z",
           "img": "/img/uploads/festcakes_bnr_sem4_03.jpg",
           "link": "https://www.festcakes.com.br/k/chicobento?utm_source=site&utm_medium=banner&utm_campaign=chicobento"
+        },
+        {
+          "start": "2025-06-02T02:59:28.571Z",
+          "end": "2025-06-11T02:59:08.369Z",
+          "img": "/img/uploads/neutro_bnr_jun_sem1_namorados_02.jpg",
+          "link": "https://www.festcakes.com.br/search?term=p%C3%B3+decorativo&utm_source=site&utm_medium=banner&utm_campaign=po-shine-iceberg"
         }
       ]
     },
