@@ -8,8 +8,6 @@
   from = "/*"
   to = "https://www.festcakes.com.br/:splat"
   status = 301
-  conditions = {Path = ["!/admin/*"]}
-
 
 [[headers]]
   for = "/storefront.*"
