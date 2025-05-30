@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.6c373fe1502f3918af9e49596431d74f.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.5daf135870f64a29f53ba92d023d517b.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.6a84d5f9b51eef566056241d492f3130.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.85e5c357dfaa53f04522fb871b008c20.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.6f429830ee88c2848b7c516d4d2cff9a.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Festcakes",
+  "short_name": "Festcakes ",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A festcakes surge com uma proposta de entregar uma loja completa em utensílios, acessórios e alimentos para confeitaria. levamos à risca valores que foram desenvolvidos carinhosamente pensando em você. \n\nNosso objetivo é ser a mais próxima, inclusiva, prestativa, sábia e simples. Nossos pilares de trabalho são qualidade, responsabilidade, parceria e confiança. Fruto de uma empresa que tem uma estabilidade no mercado a mais de 40 anos a Festcakes nasce da Festpan Alimentos pra atender você.",
+  "background_color": "#ffffff",
+  "theme_color": "#831e5a"
+}
