@@ -3,15 +3,13 @@
   functions = "functions-zip"
 
 # Redirect all pages except /admin/ to festcakes.com.br
-[[redirects]]
-  from = "/admin/*"
-  to = "/admin/:splat"
-  status = 301
 
 [[redirects]]
   from = "/*"
   to = "https://www.festcakes.com.br/:splat"
   status = 301
+  conditions = {Path = ["!/admin/*"]}
+
 
 [[headers]]
   for = "/storefront.*"
