@@ -8,30 +8,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2025-06-02T02:59:00.000Z",
-          "end": "2025-06-11T02:59:00.000Z",
-          "img": "/img/uploads/neutro_bnr_jun_sem1_namorados_01.jpg",
-          "link": "https://www.festcakes.com.br/search?term=caixa+decora%C3%A7%C3%A3o&utm_source=site&utm_medium=banner&utm_campaign=caixasdedecoração"
-        },
-        {
-          "start": "2025-06-02T02:59:28.571Z",
-          "end": "2025-06-11T02:59:08.369Z",
-          "img": "/img/uploads/neutro_bnr_jun_sem1_namorados_02.jpg",
-          "link": "https://www.festcakes.com.br/search?term=p%C3%B3+decorativo&utm_source=site&utm_medium=banner&utm_campaign=po-shine-iceberg"
-        },
-        {
-          "start": "2025-06-02T02:59:00.000Z",
-          "end": "2025-06-11T02:59:00.000Z",
-          "img": "/img/uploads/neutro_bnr_jun_sem1_namorados_03.jpg",
-          "link": "https://www.festcakes.com.br/k/pasta_dabella?utm_source=site&utm_medium=banner&utm_campaign=pasta_dabella"
-        },
-        {
-          "start": "2025-06-02T02:59:00.000Z",
-          "end": "2025-06-16T02:59:00.000Z",
-          "img": "/img/uploads/neutro_bnr_jun_sem1_namorados_04.jpg",
-          "link": "https://www.festcakes.com.br/search?term=namorados?utm_source=site&utm_medium=banner&utm_campaign=Namorados"
-        },
-        {
           "start": "2025-06-11T03:00:00.000Z",
           "end": "2025-06-16T02:59:00.000Z",
           "img": "/img/uploads/neutro_jun_bnr_sem2_namorados_01.jpg",
@@ -54,6 +30,12 @@
           "end": "2025-06-16T02:59:00.000Z",
           "img": "/img/uploads/neutro_jun_bnr_sem2_namorados_04.jpg",
           "link": "https://www.festcakes.com.br/search?term=love?utm_source=site&utm_medium=banner&utm_campaign=love"
+        },
+        {
+          "start": "2025-06-02T02:59:00.000Z",
+          "end": "2025-06-16T02:59:00.000Z",
+          "img": "/img/uploads/neutro_bnr_jun_sem1_namorados_04.jpg",
+          "link": "https://www.festcakes.com.br/search?term=namorados?utm_source=site&utm_medium=banner&utm_campaign=Namorados"
         }
       ]
     },
