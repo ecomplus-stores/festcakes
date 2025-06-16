@@ -26,17 +26,17 @@
           "link": "https://www.festcakes.com.br/k/sb1-cachepot"
         },
         {
-          "start": "2025-06-11T20:30:00.606Z",
-          "end": "2025-07-01T02:59:00.000Z",
-          "img": "/img/uploads/br_pt_nptrade_bannerwinter1995x525px_m-1.jpg",
-          "link": "https://www.festcakes.com.br/search?term=Nestl%C3%A9&utm_source=site&utm_medium=banner&utm_campaign=Nestl%C3%A9"
-        },
-        {
           "start": "2025-06-16T11:08:03.712Z",
           "end": "2025-06-23T02:59:00.000Z",
           "mobile_img": "",
           "link": "https://www.festcakes.com.br/search?term=junina&utm_source=site&utm_medium=banner&utm_campaign=Junina",
           "img": "/img/uploads/festpan_jun_bnr_sem3_junino_04.jpg"
+        },
+        {
+          "start": "2025-06-11T20:30:00.606Z",
+          "end": "2025-07-01T02:59:00.000Z",
+          "img": "/img/uploads/br_pt_nptrade_bannerwinter1995x525px_m-1.jpg",
+          "link": "https://www.festcakes.com.br/search?term=Nestl%C3%A9&utm_source=site&utm_medium=banner&utm_campaign=Nestl%C3%A9"
         }
       ]
     },
