@@ -6,10 +6,9 @@
       "/p/confeitaria?Confeitaria",
       "/k/formas?Formas",
       "/p/mercearia?Mercearia",
-      "/p/chocolates?Chocolates",
-      "/pfkvw/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/pfkv/sazonal?Sazonal"
+      "/p/chocolates?Chocolates"
     ],
-    "random": 1,
+    "random": 0,
     "full_width": true
   },
   "menu_all_departments": false,
