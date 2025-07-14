@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 4000,
+      "autoplay": 5000,
       "full_width": true,
       "slides": [
         {
@@ -30,6 +30,12 @@
           "end": "2025-08-01T02:59:00.000Z",
           "img": "/img/uploads/br_pt_nptrade_bannerwinter1995x525px_m-1.jpg",
           "link": "https://www.festcakes.com.br/search?term=nestl%C3%A9&utm_source=site&utm_medium=banner&utm_campaign=k_jul_sem1_nestle_4\t\t"
+        },
+        {
+          "start": "2025-07-14T12:11:50.715Z",
+          "end": "2025-07-21T02:59:00.000Z",
+          "img": "/img/uploads/cak-47-banner-1.jpg",
+          "link": "https://www.festcakes.com.br/pk/sb-biscoito-mercearia?utm_source=site&utm_medium=banner&utm_campaign=k_jul_sem3_amizade-com-sabor_1"
         }
       ]
     },
