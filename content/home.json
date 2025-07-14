@@ -20,16 +20,16 @@
           "link": "https://www.festcakes.com.br/pk/sb-biscoito-mercearia"
         },
         {
-          "start": "2025-07-07T20:43:26.574Z",
-          "end": "2025-08-01T02:59:00.000Z",
-          "img": "/img/uploads/br_pt_nptrade_bannerwinter1995x525px_m-1.jpg",
-          "link": "https://www.festcakes.com.br/search?term=nestl%C3%A9&utm_source=site&utm_medium=banner&utm_campaign=k_jul_sem1_nestle_4\t\t"
-        },
-        {
           "start": "2025-07-14T03:00:00.000Z",
           "end": "2025-07-21T02:59:00.000Z",
           "img": "/img/uploads/cak-47-banner-3.jpg",
           "link": "https://www.festcakes.com.br/k/sabor-e-crocancia?utm_source=site&utm_medium=banner&utm_campaign=p_jul_sem3_amizade_com_sabor_3"
+        },
+        {
+          "start": "2025-07-07T20:43:26.574Z",
+          "end": "2025-08-01T02:59:00.000Z",
+          "img": "/img/uploads/br_pt_nptrade_bannerwinter1995x525px_m-1.jpg",
+          "link": "https://www.festcakes.com.br/search?term=nestl%C3%A9&utm_source=site&utm_medium=banner&utm_campaign=k_jul_sem1_nestle_4\t\t"
         }
       ]
     },
