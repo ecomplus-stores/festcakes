@@ -8,22 +8,15 @@
       "full_width": true,
       "slides": [
         {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/cak-51-banner-nestle-profissional.jpg",
-          "link": "https://www.festcakes.com.br/search?term=Nestl%C3%A9&utm_source=site&utm_medium=banner&utm_campaign=c-sem4-banner-1-nestle_professional"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/cak-51-banner-2-confeitaria.jpg",
-          "link": "https://www.festcakes.com.br/search?term=Saco+de+confeitar&utm_source=site&utm_medium=banner&utm_campaign=c-sem4-banner-2-saco_confeitar"
-        },
-        {
           "start": "2025-08-01T12:10:36.316Z",
           "end": "2025-08-16T02:59:00.000Z",
           "img": "/img/uploads/br_pt_npecomm_diadospaisbannersclientesbidfood1995x525px_m-1.jpg",
           "link": "https://www.festcakes.com.br/search?term=Nestl%C3%A9&utm_source=site&utm_medium=banner&utm_campaign=c-sem1-banner-3-nestle_professional"
+        },
+        {
+          "start": "2025-08-04T12:27:10.306Z",
+          "end": "2025-08-11T02:59:12.226Z",
+          "img": "/img/uploads/fes-102_2025_ago_bnr_sem2_02.jpg"
         }
       ]
     },
