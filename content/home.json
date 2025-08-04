@@ -13,16 +13,16 @@
           "img": "/img/uploads/banner-1.jpg"
         },
         {
-          "start": "2025-08-01T12:10:36.316Z",
-          "end": "2025-08-16T02:59:00.000Z",
-          "img": "/img/uploads/br_pt_npecomm_diadospaisbannersclientesbidfood1995x525px_m-1.jpg",
-          "link": "https://www.festcakes.com.br/search?term=Nestl%C3%A9&utm_source=site&utm_medium=banner&utm_campaign=c-sem1-banner-3-nestle_professional"
-        },
-        {
           "start": "2025-08-04T12:46:51.534Z",
           "end": "2025-08-19T02:59:52.721Z",
           "img": "/img/uploads/banner-2.jpg",
           "link": "https://www.festcakes.com.br/pk/velas-diamante"
+        },
+        {
+          "start": "2025-08-01T12:10:36.316Z",
+          "end": "2025-08-16T02:59:00.000Z",
+          "img": "/img/uploads/br_pt_npecomm_diadospaisbannersclientesbidfood1995x525px_m-1.jpg",
+          "link": "https://www.festcakes.com.br/search?term=Nestl%C3%A9&utm_source=site&utm_medium=banner&utm_campaign=c-sem1-banner-3-nestle_professional"
         }
       ]
     },
