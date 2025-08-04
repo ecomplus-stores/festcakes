@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 3000,
       "full_width": true,
       "slides": [
         {
@@ -12,6 +12,11 @@
           "end": "2025-08-16T02:59:00.000Z",
           "img": "/img/uploads/br_pt_npecomm_diadospaisbannersclientesbidfood1995x525px_m-1.jpg",
           "link": "https://www.festcakes.com.br/search?term=Nestl%C3%A9&utm_source=site&utm_medium=banner&utm_campaign=c-sem1-banner-3-nestle_professional"
+        },
+        {
+          "start": "2025-08-04T12:45:08.351Z",
+          "end": "2025-08-12T02:59:11.479Z",
+          "img": "/img/uploads/banner-1.jpg"
         }
       ]
     },
