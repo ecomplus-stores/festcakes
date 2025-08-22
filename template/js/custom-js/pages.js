@@ -77,3 +77,37 @@ $('body').on('click','#favorites-quickview button[data-product-id]', function(){
   toggleFavorite($(this).data(`product-id`), EcomPassport.ecomPassport)
   $(this).closest(`.item`).remove();
 });
+
+
+function toggleSidenav_(slug, isClose) {
+  alert(`a`)
+  let $collapse
+  if (slug) {
+    $collapse = $(`#a-${slug.replace(/\//g, '_')}`)
+    if (!$collapse.length) {
+      window.location = `/${slug}`
+      return
+    }
+  }
+
+  if (!isVisible) {
+    if (isClose !== true) {
+      overlay.show()
+      overlay.once('hide', () => {
+        toggleSidenav(null, true)
+      })
+      $menu.style.display = 'flex'
+      animateCss($menu, 'slideInLeft')
+      isVisible = true
+      if ($collapse) {
+        $collapse.collapse('show')
+      }
+    }
+  } else {
+    animateCss($menu, 'slideOutLeft').then(() => {
+      $menu.style.display = null
+      overlay.hide()
+    })
+    isVisible = false
+  }
+}
