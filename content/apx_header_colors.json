@@ -5,31 +5,26 @@
   "menu_color": "#831e5a",
   "categories": [
     {
-      "title": "Mercearia"
-    },
-    {
       "title": "Embalagens e Descartáveis"
-    },
-    {
-      "title": "Utensílios"
     },
     {
       "title": "Confeitaria"
     },
     {
-      "title": "Panificação"
+      "title": "Utensílios"
     },
-    {
-      "title": "Chocolates"
-    },
+    
     {
       "title": "Formas"
     },
     {
-      "title": "Culinária"
+      "title": "Mercearia"
     },
+    
+    
     {
-      "title": "Bomboniere"
+      "title": "Chocolates"
     }
+   
   ]
 }

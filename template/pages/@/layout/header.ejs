@@ -24,13 +24,7 @@ const networks = [
 let categories = []
 let isCategoriesNavFull
 if (header.categories_list) {
-  if (header.categories_list.featured.length) {
-    // selected categories/collections/brands
-    categories = header.categories_list.featured.map(pathAndName => {
-      const [path, name] = pathAndName.split('?')
-      return { slug: path.slice(1), name }
-    })
-  }
+  
   if (header.categories_list.random) {
     // add up to `random` main categories
     const mainCategories = _.categories.filter(({ parent }) => !parent || !parent.slug)
@@ -380,11 +374,24 @@ if (header.marketing_stripe && !Array.isArray(header.marketing_stripe)) {
         <nav class="main-nav-menu style-white-2">
           <ul class="nav-list m-0">
             
-            <% categories.forEach(({ slug, name, _id }) => { 
-              if(apx_header_color.categories.find(el => el.title.toLowerCase().trim() == name.toLowerCase().trim())) {
-                
-              
-              %>
+            <% 
+            // Create a new array with categories that match apx_header_color.categories
+            let orderedCategories = [];
+            
+            // Add categories in the order they appear in apx_header_color.categories
+            if (apx_header_color.categories && apx_header_color.categories.length) {
+              apx_header_color.categories.forEach(colorCat => {
+                const matchingCategory = categories.find(category => 
+                  category.name.toLowerCase().trim() === colorCat.title.toLowerCase().trim()
+                );
+                if (matchingCategory) {
+                  orderedCategories.push(matchingCategory);
+                }
+              });
+            }
+            
+            // Display the ordered categories
+            orderedCategories.forEach(({ slug, name, _id }) => { %>
               
                 <% const subcategories = _.categories.filter(({ parent }) => parent && parent.slug === slug) %>
                 <li class="nav-item ">
@@ -426,7 +433,6 @@ if (header.marketing_stripe && !Array.isArray(header.marketing_stripe)) {
                   <% } %>
                 </li>
               <% 
-              }
             }) %>
             
             <% if (header.contacts_stripe && header.contacts_stripe.pages) { %>
