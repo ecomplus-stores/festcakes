@@ -20,16 +20,16 @@
           "link": "https://www.festcakes.com.br/pk/dabella"
         },
         {
-          "start": "2025-08-11T20:14:52.425Z",
-          "end": "2025-09-07T03:00:00.000Z",
-          "img": "/img/uploads/cak-98_2025_ago_bnr_sem2_01.jpg",
-          "link": "https://www.festcakes.com.br/pk/caneta-alimenticia"
-        },
-        {
           "start": "2025-08-11T20:17:24.810Z",
           "end": "2025-09-07T03:00:25.938Z",
           "img": "/img/uploads/cak-98_2025_ago_bnr_sem2_02.jpg",
           "link": "https://www.festcakes.com.br/search?term=aromax&utm_source=site&utm_medium=banner&utm_campaign=c-sem2-banner-aromax"
+        },
+        {
+          "start": "2025-08-11T20:14:52.425Z",
+          "end": "2025-09-07T03:00:00.000Z",
+          "img": "/img/uploads/cak-98_2025_ago_bnr_sem2_01.jpg",
+          "link": "https://www.festcakes.com.br/pk/caneta-alimenticia"
         }
       ]
     },
