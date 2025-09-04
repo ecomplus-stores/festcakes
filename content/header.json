@@ -1,12 +1,12 @@
 {
   "categories_list": {
     "featured": [
-      "/p/embalagens-e-descartaveis?Embalagens e Descartáveis",
-      "/p/utensilios?Utensílios",
+      "/k/embalagens-e-descartaveis?Embalagens e Descartáveis",
+      "/k/utensilios?Utensílios",
       "/k/confeitaria?Confeitaria",
       "/k/formas?Formas",
-      "/p/mercearia?Mercearia",
-      "/p/chocolates?Chocolates"
+      "/k/mercearia?Mercearia",
+      "/k/chocolates?Chocolates"
     ],
     "random": 999,
     "full_width": true
