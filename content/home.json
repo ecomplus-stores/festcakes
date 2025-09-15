@@ -26,16 +26,16 @@
           "img": "/img/uploads/cak-138_2025_bnr_template_web_02.jpg"
         },
         {
-          "start": "2025-09-02T12:00:39.661Z",
-          "end": "",
-          "img": "/img/uploads/cak-134_2025_set_bnr_sem1_web_02.jpg",
-          "link": "https://www.festcakes.com.br/pk/dabella"
-        },
-        {
           "start": "2025-09-15T17:55:03.537Z",
           "end": "2025-09-21T03:00:00.000Z",
           "img": "/img/uploads/cak-135_2025_set_bnr_sem2_web.jpg",
           "link": "https://www.festcakes.com.br/pkf/raspador-de-chocolate-bluestar"
+        },
+        {
+          "start": "2025-09-02T12:00:39.661Z",
+          "end": "",
+          "img": "/img/uploads/cak-134_2025_set_bnr_sem1_web_02.jpg",
+          "link": "https://www.festcakes.com.br/pk/dabella"
         }
       ]
     },
