@@ -14,15 +14,15 @@
           "link": "https://www.festcakes.com.br/pkf/chocalho-para-confeitos-rosa-bebe-bluestar"
         },
         {
-          "start": "2025-10-01T20:23:57.815Z",
-          "end": "2025-10-05T03:00:00.000Z",
-          "img": "/img/uploads/cak-268_2025_out_bnr_sem1_web_01.jpg"
-        },
-        {
           "start": "2025-10-01T20:25:20.149Z",
           "end": "2025-10-12T03:00:00.000Z",
           "img": "/img/uploads/cak-268_2025_out_bnr_sem1_web_03.jpg",
           "link": "https://www.festcakes.com.br/k/confeitaria"
+        },
+        {
+          "start": "2025-10-01T20:23:57.815Z",
+          "end": "2025-10-05T03:00:00.000Z",
+          "img": "/img/uploads/cak-268_2025_out_bnr_sem1_web_01.jpg"
         }
       ]
     },
