@@ -8,33 +8,22 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2025-10-07T13:39:00.019Z",
-          "end": "2025-10-13T03:00:00.000Z",
-          "img": "/img/uploads/cak-270_2025_out_bnr_sem2_web_01.jpg",
-          "link": "https://www.festcakes.com.br/k/po-decorativo-iceberg"
-        },
-        {
-          "start": "2025-10-07T13:41:05.470Z",
-          "end": "2025-10-13T03:00:29.270Z",
-          "img": "/img/uploads/cak-270_2025_out_bnr_sem2_web_03.jpg",
-          "link": "https://www.festcakes.com.br/pkf/caixa-practice-8-doces-criancas-com-10-unid-ideia"
-        },
-        {
           "start": "2025-10-13T12:12:29.228Z",
           "end": "2025-10-20T03:00:00.000Z",
           "img": "/img/uploads/cak-268_2025_out_bnr_sem1_web_02.jpg",
           "link": "https://www.festcakes.com.br/pkf/chocalho-para-confeitos-rosa-bebe-bluestar"
         },
         {
+          "start": "2025-10-13T20:35:48.400Z",
+          "end": "2025-10-20T03:00:00.000Z",
+          "img": "/img/uploads/cak-270_2025_out_bnr_sem2_web_01.jpg",
+          "link": "https://www.festcakes.com.br/k/po-decorativo-iceberg"
+        },
+        {
           "start": "2025-10-13T12:12:52.245Z",
           "end": "2025-10-20T03:00:00.000Z",
           "img": "/img/uploads/cak-268_2025_out_bnr_sem1_web_03.jpg",
           "link": "https://www.festcakes.com.br/k/confeitaria"
-        },
-        {
-          "start": "2025-10-01T20:23:57.815Z",
-          "end": "2025-10-05T03:00:00.000Z",
-          "img": "/img/uploads/cak-268_2025_out_bnr_sem1_web_01.jpg"
         }
       ]
     },
