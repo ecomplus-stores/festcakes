@@ -9,25 +9,25 @@
       "slides": [
         {
           "start": "2025-10-21T17:25:06.605Z",
-          "end": "2025-10-31T03:00:00.000Z",
+          "end": "2025-10-31T03:00:00Z",
           "img": "/img/uploads/cak-272_2025_out_bnr_sem4_web_01.jpg",
           "link": "https://www.festcakes.com.br/pk/halloween"
         },
         {
-          "start": "2025-10-21T18:13:15.800Z",
-          "end": "2025-10-31T03:00:00.000Z",
+          "start": "2025-10-21T18:13:15.8Z",
+          "end": "2025-10-31T03:00:00Z",
           "img": "/img/uploads/cak-272_2025_out_bnr_sem4_web_03.jpg",
           "link": "https://www.festcakes.com.br/search?term=silver"
         },
         {
           "start": "2025-10-20T15:13:25.642Z",
-          "end": "2025-10-27T03:00:00.000Z",
+          "end": "2025-10-27T03:00:00Z",
           "img": "/img/uploads/cak-271_2025_out_bnr_sem3_web_02.jpg",
           "link": "https://www.festcakes.com.br/search?term=ovomaltine"
         },
         {
           "start": "2025-10-21T16:48:18.669Z",
-          "end": "2025-10-31T03:00:00.000Z",
+          "end": "2025-10-31T03:00:00Z",
           "img": "/img/uploads/cak-271_2025_out_bnr_sem3_web_01.jpg",
           "link": "https://www.festcakes.com.br/k/lancamento-mavalerio"
         },
@@ -39,9 +39,16 @@
         },
         {
           "start": "2025-10-21T16:50:46.981Z",
-          "end": "2025-10-31T03:00:00.000Z",
+          "end": "2025-10-31T03:00:00Z",
           "img": "/img/uploads/cak-268_2025_out_bnr_sem1_web_02.jpg",
           "link": "https://www.festcakes.com.br/pkf/chocalho-para-confeitos-rosa-bebe-bluestar"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/CAK-273_2025_OUT_BNR_SEM5_WEB_03.jpg",
+          "link": "&utm_source=SITE&utm_medium=BANNER&utm_campaign=C-SEM-05-FESTCAKES",
+          "alt": "425"
         }
       ]
     },
