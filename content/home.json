@@ -8,41 +8,18 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2025-10-21T17:25:06.605Z",
-          "end": "2025-10-31T03:00:00Z",
-          "img": "/img/uploads/cak-272_2025_out_bnr_sem4_web_01.jpg",
-          "link": "https://www.festcakes.com.br/pk/halloween"
-        },
-        {
-          "start": "2025-10-21T18:13:15.8Z",
-          "end": "2025-10-31T03:00:00Z",
-          "img": "/img/uploads/cak-272_2025_out_bnr_sem4_web_03.jpg",
-          "link": "https://www.festcakes.com.br/search?term=silver"
-        },
-        {
-          "start": "2025-10-21T16:48:18.669Z",
-          "end": "2025-10-31T03:00:00Z",
-          "img": "/img/uploads/cak-271_2025_out_bnr_sem3_web_01.jpg",
-          "link": "https://www.festcakes.com.br/k/lancamento-mavalerio"
-        },
-        {
-          "start": "2025-10-21T16:49:48.382Z",
-          "end": "2025-10-31T16:49:45.383Z",
-          "img": "/img/uploads/cak-271_2025_out_bnr_sem3_web_03.jpg",
-          "link": "https://www.festcakes.com.br/k/mix-corante"
-        },
-        {
-          "start": "2025-10-21T16:50:46.981Z",
-          "end": "2025-10-31T03:00:00Z",
-          "img": "/img/uploads/cak-268_2025_out_bnr_sem1_web_02.jpg",
-          "link": "https://www.festcakes.com.br/pkf/chocalho-para-confeitos-rosa-bebe-bluestar"
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/CAK-307_2025_NOV_BNR_SEM1_WEB_01.jpg",
+          "link": "&utm_source=SITE&utm_medium=BANNER&utm_campaign=C-01-NOVE-SEM",
+          "alt": "449"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/CAK-273_2025_OUT_BNR_SEM5_WEB_01.jpg",
-          "link": "https://www.festcakes.com.br/search?term=tira+de+acetato+bwb",
-          "alt": "431"
+          "img": "/img/uploads/CAK-307_2025_NOV_BNR_SEM1_WEB_02.jpg",
+          "link": "&utm_source=SITE&utm_medium=BANNER&utm_campaign=C-SEM-01-NOVEM",
+          "alt": "451"
         },
         {
           "start": "",
@@ -57,34 +34,6 @@
           "img": "/img/uploads/CAK-273_2025_OUT_BNR_SEM5_WEB_03.jpg",
           "link": "https://www.festcakes.com.br/pkf/maleta-cristal-5x5x75-com-10-unidades-ideia-",
           "alt": "433"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/CAK-307_2025_NOV_BNR_SEM1_WEB_01.jpg",
-          "link": "&utm_source=SITE&utm_medium=BANNER&utm_campaign=C-01-NOVE-SEM",
-          "alt": "449"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/CAK-307_2025_NOV_BNR_SEM1_WEB_01-v2.jpg",
-          "link": "&utm_source=SITE&utm_medium=BANNER&utm_campaign=C-SEM-01-NOVEM",
-          "alt": "450"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/CAK-307_2025_NOV_BNR_SEM1_WEB_02.jpg",
-          "link": "&utm_source=SITE&utm_medium=BANNER&utm_campaign=C-SEM-01-NOVEM",
-          "alt": "451"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/CAK-307_2025_NOV_BNR_SEM1_WEB_02.jpg",
-          "link": "&utm_source=SITE&utm_medium=BANNER&utm_campaign=C-SEM-01-NOVEM",
-          "alt": "452"
         }
       ]
     },
