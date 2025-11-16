@@ -6,15 +6,7 @@
       "type": "banner-slider",
       "autoplay": 3000,
       "full_width": true,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/CAK-309_2025_NOV_BNR_SEM2_WEB_01.jpg",
-          "link": "https://www.festcakes.com.br/pk/bluestar",
-          "alt": "472"
-        }
-      ]
+      "slides": []
     },
     {
       "type": "info-bar",
