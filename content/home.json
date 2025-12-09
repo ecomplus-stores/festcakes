@@ -10,34 +10,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/CAK-344_2025_DEZ_BNR_SEM1_WEB_01.jpg",
-          "link": "https://www.festcakes.com.br/pk/la-crema",
-          "alt": "489"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/CAK-344_2025_DEZ_BNR_SEM1_WEB_02.jpg",
-          "link": "https://www.festcakes.com.br/search?term=jeni+jone",
-          "alt": "490"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/CAK-344_2025_DEZ_BNR_SEM1_WEB_03.jpg",
-          "link": "https://www.festcakes.com.br/k/granuladonatal",
-          "alt": "491"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/CAK-311_2025_NOV_BNR_SEM4_WEB_01.jpg",
-          "link": "https://www.festcakes.com.br/pk/linhaxamego",
-          "alt": "485"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/CAK-311_2025_NOV_BNR_SEM4_WEB_03.jpg",
           "link": "https://www.festcakes.com.br/pk/embalgensnatalinas",
           "alt": "483"
@@ -48,6 +20,13 @@
           "img": "/img/uploads/CAK-311_2025_NOV_BNR_SEM4_WEB_02.jpg",
           "link": "https://www.festcakes.com.br/pk/art-tart",
           "alt": "484"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/CAK-344_2025_DEZ_BNR_SEM1_WEB_03.jpg",
+          "link": "https://www.festcakes.com.br/k/granuladonatal",
+          "alt": "491"
         }
       ]
     },
